@@ -30,7 +30,7 @@ go build
 ## Usage
 
 ```bash
-amindi [location] [flags]
+valuta rates [flags]
 ```
 
 ### List Exchange Rates
